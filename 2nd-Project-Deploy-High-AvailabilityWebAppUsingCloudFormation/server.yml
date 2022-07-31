@@ -46,7 +46,7 @@ Resources:
           apt-get install apache2 -y
           systemctl start apache2.service
           cd /var/www/html
-          aws s3 cp s3://mybucket751414656243/project.zip .
+          aws s3 cp s3://mybucketname/project.zip .
           unzip -o project.zip
       ImageId: ami-005de95e8ff495156
       IamInstanceProfile: !Ref ProfileWithRolesForApp
