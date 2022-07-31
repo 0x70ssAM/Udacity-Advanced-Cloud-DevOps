@@ -1,7 +1,7 @@
 # Udacity *Advanced Cloud DevOps Nanodegree Program*
 ## 2- Deploy Infrastructure as Code (*IAC*)
 
-## Project 2 : Deploy a high-availability web app using CloudFormation
+## Project 2 : Deploy High-Availability WebApp Using CloudFormation
 
 ### Description
 Create a Launch Configuration in order to deploy four servers, two located in each of your private subnets.  
